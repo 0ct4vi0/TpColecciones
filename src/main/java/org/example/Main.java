@@ -21,6 +21,7 @@ public class Main {
             sc.nextLine();
             matriz.agregarCelda(fila,pos, valor);
         }
+
         System.out.println("-------------------------------------------");
         System.out.println("Los valores guardados en ala matriz son: ");
         matriz.mostrarMatriz();
